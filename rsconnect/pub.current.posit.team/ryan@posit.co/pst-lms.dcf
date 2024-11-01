@@ -1,0 +1,12 @@
+name: pst-lms
+title: PST-LMS
+username: ryan@posit.co
+account: ryan@posit.co
+server: pub.current.posit.team
+hostUrl: https://pub.current.posit.team/__api__
+appId: 356
+bundleId: 890
+url: https://pub.current.posit.team/pst-lms/
+version: 1
+asMultiple: FALSE
+asStatic: TRUE

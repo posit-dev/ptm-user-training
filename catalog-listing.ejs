@@ -1,0 +1,23 @@
+
+```{=html}
+
+<% for (const item of items) { %>
+
+<div class="list grid" style="column-gap: 10px;">
+
+<% for (const catalog of item.catalogs) { %>
+  <div class="card border-2 rounded-3 g-col-lg-3 mx-2 g-col-12 g-col-sm-6 g-col-md-4 mb-2"<%= metadataAttrs(catalog) %>>
+    <a href="<%- catalog.href %>" class="stretched-link"></a>
+    <img class="card-img-top" src="<%- catalog.thumbnail %>" alt="<%- catalog.description %>">
+    <div class="card-body">
+      <h5 class="card-title fw-bold"><%= catalog.title %></h5>
+      <p class="card-text"><%= catalog.subtitle %></p>
+    </div>
+  </div>
+<% } %>
+
+</div>
+
+<% } %>
+
+```

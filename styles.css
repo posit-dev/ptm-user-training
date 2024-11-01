@@ -1,0 +1,111 @@
+/* NAVBAR */
+.navbar-logo {
+    max-height: 50px;
+}
+
+.navbar {
+    background-color: #17212B;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #419599 !important;  /* Slightly different color for hover/active states */
+}
+
+.navbar-title {
+    color: white; !important
+}
+
+
+/* CARDS */
+.card {
+  overflow: hidden;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(1.02, 1.02);
+    transition: 0.2s;
+  }
+  
+
+/* Search icon */
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    color: white;
+}
+
+
+
+.content-block {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.hero-banner {
+  position: relative;
+  background-color: #D1DBE5;
+  display: flex;
+  justify-content: center;
+  padding: 70px;
+  border-bottom: 1px solid #17212B;
+}
+
+.hero-banner .content-block .hero-text {
+  width: 100%;
+  font-size: 1.3rem;
+}
+
+.hero-banner .content-block .hero-video {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.hero-banner a {
+  text-decoration: none;
+}
+
+.hero-banner h1 {
+  font-size: 4rem;
+}
+
+.hero-banner h3 {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+
+.hero-banner h4 {
+  margin-top: 0;
+}
+
+.two-column {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.two-column .column {
+  flex: 1;
+  min-width: 400px;
+  align-self: center;
+}
+
+
+.centered-container {
+  display: flex;
+  justify-content: center; /* Horizontally centers content (optional) */
+  height: 100vh; /* Full viewport height */
+  width: 100%; /* Full width by default */
+}
+
+@media (min-width: 1100px) { /* Large screens and up */
+  .centered-container {
+    width: 80%; /* Set to 80% width on large screens */
+    margin: 0 auto; /* Centers the container horizontally */
+  }
+}
+
+

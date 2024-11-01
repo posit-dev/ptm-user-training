@@ -1,0 +1,9 @@
+---
+title: "Posit Team Power-Ups"
+listing:
+  contents: lessons
+  type: grid
+  categories: true
+  filter-ui: true
+---
+

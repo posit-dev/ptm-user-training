@@ -1,0 +1,63 @@
+[
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/all-courses.html",
+    "items": [
+      "/courses/job-scheduling/job-scheduling.html",
+      "/courses/publishing-methods/publishing-methods.html",
+      "/courses/runtime-settings/runtime.html",
+      "/courses/session-management/session-management.html",
+      "/courses/vars/vars.html",
+      "/courses/workbench-jobs/workbench-jobs.html"
+    ]
+  },
+  {
+    "listing": "/catalogs/catalog-open-source-ed.html",
+    "items": []
+  },
+  {
+    "listing": "/catalogs/catalog-pst-user-training.html",
+    "items": []
+  },
+  {
+    "listing": "/courses/job-scheduling/job-scheduling.html",
+    "items": []
+  },
+  {
+    "listing": "/catalogs/catalog-pct-intro.html",
+    "items": []
+  },
+  {
+    "listing": "/catalogs/catalog-connect.html",
+    "items": []
+  },
+  {
+    "listing": "/catalog-connect.html",
+    "items": [
+      "/lessons/background-workbench-jobs/lesson-background-workbench-jobs.html",
+      "/lessons/dash-deploy/lesson-dash-deploy.html",
+      "/lessons/shiny-python-publish/lesson-shiny-python-publish.html",
+      "/lessons/git-backed-deployment/lesson-git-backed-deployment.html",
+      "/lessons/job-scheduling/lesson-job-scheduling.html",
+      "/lessons/pin-r-object/lesson-pin-r-object.html",
+      "/lessons/plumbertableau/lesson-plumbertableau.html",
+      "/lessons/project-sharing/lesson-project-sharing.html"
+    ]
+  },
+  {
+    "listing": "/catalog-posit-team.html",
+    "items": [
+      "/lessons/background-workbench-jobs/lesson-background-workbench-jobs.html",
+      "/lessons/dash-deploy/lesson-dash-deploy.html",
+      "/lessons/shiny-python-publish/lesson-shiny-python-publish.html",
+      "/lessons/git-backed-deployment/lesson-git-backed-deployment.html",
+      "/lessons/job-scheduling/lesson-job-scheduling.html",
+      "/lessons/pin-r-object/lesson-pin-r-object.html",
+      "/lessons/plumbertableau/lesson-plumbertableau.html",
+      "/lessons/project-sharing/lesson-project-sharing.html"
+    ]
+  }
+]

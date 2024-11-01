@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posit Team User Training",
+    "section": "",
+    "text": "Posit Team\n      Learn how to deploy, manage, and share content on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#headerrrr",
+    "href": "posts/post-with-code/index.html#headerrrr",
+    "title": "Post With Code",
+    "section": "Headerrrr",
+    "text": "Headerrrr\nMore information."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#hello",
+    "href": "posts/post-with-code/index.html#hello",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "courses/runtime-settings/runtime.html",
+    "href": "courses/runtime-settings/runtime.html",
+    "title": "Runtime Lesson",
+    "section": "",
+    "text": "Runtime Lesson"
+  },
+  {
+    "objectID": "courses/job-scheduling/job-scheduling.html",
+    "href": "courses/job-scheduling/job-scheduling.html",
+    "title": "Job Scheduling",
+    "section": "",
+    "text": "Curriculum\n  \n    \n      \n        Publish static content\n      \n      \n      \n        Configuring frequency\n      \n      \n      \n        Emailed reports\n      \n      \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses/workbench-jobs/workbench-jobs.html",
+    "href": "courses/workbench-jobs/workbench-jobs.html",
+    "title": "Workbench Jobs",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "courses/vars/vars.html",
+    "href": "courses/vars/vars.html",
+    "title": "Vars in Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "courses/publishing-methods/publishing-methods.html",
+    "href": "courses/publishing-methods/publishing-methods.html",
+    "title": "Publishing Methods",
+    "section": "",
+    "text": "Publishing Methods"
+  },
+  {
+    "objectID": "courses/session-management/session-management.html",
+    "href": "courses/session-management/session-management.html",
+    "title": "Session Management",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "all-courses.html",
+    "href": "all-courses.html",
+    "title": "All Courses",
+    "section": "",
+    "text": "Job Scheduling in Posit Connect\n\n\n\nconnect\n\n\nonboarding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing Methods\n\n\n\nconnect\n\n\nonboarding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRuntime Settings\n\n\n\nconnect\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSession Management\n\n\n\nworkbench\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVars in Posit Connect\n\n\n\nconnect\n\n\nonboarding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkbench Jobs\n\n\n\nworkbench\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#connect-features",
+    "href": "index.html#connect-features",
+    "title": "Posit Academy",
+    "section": "Connect Features",
+    "text": "Connect Features\nThis is a collection of courses that will help you get started with Posit Connect.\n\n\n\n\n  \n    \n    \n    \n      Job Scheduling\n      How to schedule static content (Quarto, Jupyter Notebooks, and RMarkdown) to run on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Publishing Methods on Posit Connect\n      How to publish content to Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#workbench-features",
+    "href": "index.html#workbench-features",
+    "title": "Posit Academy",
+    "section": "Workbench Features",
+    "text": "Workbench Features\nThis is a collection of courses that will help you get started with Posit Workbench.\n\n\n\n\n  \n    \n    \n    \n      Job Scheduling\n      How to schedule static content (Quarto, Jupyter Notebooks, and RMarkdown) to run on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Publishing Methods on Posit Connect\n      How to publish content to Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "lessons/session-management/lesson-session-management.html",
+    "href": "lessons/session-management/lesson-session-management.html",
+    "title": "Session Management",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/publishing-methods/lesson-publishing-methods.html",
+    "href": "lessons/publishing-methods/lesson-publishing-methods.html",
+    "title": "Publishing Methods",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/runtime-settings/lesson-runtime.html",
+    "href": "lessons/runtime-settings/lesson-runtime.html",
+    "title": "Runtime Settings",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "catalogs/catalog-open-source-ed.html",
+    "href": "catalogs/catalog-open-source-ed.html",
+    "title": "Open Source Education",
+    "section": "",
+    "text": "Welcome to Open Source Education."
+  },
+  {
+    "objectID": "catalogs/catalog-open-source-ed.html#intro-to-r",
+    "href": "catalogs/catalog-open-source-ed.html#intro-to-r",
+    "title": "Open Source Education",
+    "section": "Intro to R",
+    "text": "Intro to R\nThis is a collection of courses that will help you get started with Posit Connect.\n\n\n\n\n  \n    \n    \n    \n      Job Scheduling\n      How to schedule static content (Quarto, Jupyter Notebooks, and RMarkdown) to run on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Publishing Methods on Posit Connect\n      How to publish content to Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "catalogs/catalog-pst-user-training.html",
+    "href": "catalogs/catalog-pst-user-training.html",
+    "title": "Posit Team User Training",
+    "section": "",
+    "text": "Welcome to Posit Team User Training! Here you will find a collection of courses to help you get started with Posit Team."
+  },
+  {
+    "objectID": "catalogs/catalog-pst-user-training.html#connect-features",
+    "href": "catalogs/catalog-pst-user-training.html#connect-features",
+    "title": "Posit Team User Training",
+    "section": "Connect Features",
+    "text": "Connect Features\nThis is a collection of courses that will help you get started with Posit Connect.\n\n\n\n\n  \n    \n    \n    \n      Job Scheduling\n      How to schedule static content (Quarto, Jupyter Notebooks, and RMarkdown) to run on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Publishing Methods on Posit Connect\n      How to publish content to Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "catalogs/catalog-pst-user-training.html#workbench-features",
+    "href": "catalogs/catalog-pst-user-training.html#workbench-features",
+    "title": "Posit Team User Training",
+    "section": "Workbench Features",
+    "text": "Workbench Features\nThis is a collection of courses that will help you get started with Posit Workbench."
+  },
+  {
+    "objectID": "lessons/vars/lesson-vars.html",
+    "href": "lessons/vars/lesson-vars.html",
+    "title": "Vars in Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/workbench-jobs/lesson-workbench-jobs.html",
+    "href": "lessons/workbench-jobs/lesson-workbench-jobs.html",
+    "title": "Workbench Jobs",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/job-scheduling/lesson-job-scheduling.html",
+    "href": "lessons/job-scheduling/lesson-job-scheduling.html",
+    "title": "Job Scheduling in Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/job-scheduling/lesson-job-scheduling1.html",
+    "href": "lessons/job-scheduling/lesson-job-scheduling1.html",
+    "title": "Job Scheduling in Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/job-scheduling/lesson-job-scheduling2.html",
+    "href": "lessons/job-scheduling/lesson-job-scheduling2.html",
+    "title": "Job Scheduling in Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/lesson-job-scheduling.html",
+    "href": "lessons/lesson-job-scheduling.html",
+    "title": "Deploying a Shiny for Python Application to Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "catalogs/catalog-pct-intro.html",
+    "href": "catalogs/catalog-pct-intro.html",
+    "title": "Introduction to Posit Connect",
+    "section": "",
+    "text": "Posit Connect is a versatile platform for deploying everything you build in R and Python, equipping your business with vital insights for growth. Below are courses designed to help get started using Posit Connect.\n\n\n\n\n\n\n\n\n  \n    \n    \n    \n      Job Scheduling\n      How to schedule static content (Quarto, Jupyter Notebooks, and RMarkdown) to run on Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Publishing Methods on Posit Connect\n      How to publish content to Posit Connect.\n    \n  \n\n  \n    \n    \n    \n      Runtime Settings\n      Understand Runtime Settings on Posit Connect.\n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "catalogs/catalog-connect.html",
+    "href": "catalogs/catalog-connect.html",
+    "title": "Posit Connect",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "lessons/lesson-shiny-python-publish.html",
+    "href": "lessons/lesson-shiny-python-publish.html",
+    "title": "Deploying a Shiny for Python Application to Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "lessons/deploy-shiny-py/lesson-shiny-python-publish.html",
+    "href": "lessons/deploy-shiny-py/lesson-shiny-python-publish.html",
+    "title": "Deploying a Shiny for Python Application to Posit Connect",
+    "section": "",
+    "text": "Here is some text."
+  },
+  {
+    "objectID": "catalog-connect.html",
+    "href": "catalog-connect.html",
+    "title": "Posit Connect",
+    "section": "",
+    "text": "Background and Workbench Jobs\n\n\n\nworkbench\n\n\ncode execution\n\n\nRStudio\n\n\nVS Code\n\n\n\nLearn how to run code in as a background or workbench job in Posit Workbench.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeploying a Dash Application to Posit Connect\n\n\n\nconnect\n\n\ndash\n\n\npython\n\n\ncli publish\n\n\nrsconnect-python\n\n\nVS Code\n\n\n\nThis lesson will show you how to deploy a Dash application to Posit Connect using the CLI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeploying a Shiny for Python Application to Posit Connect\n\n\n\nconnect\n\n\nshiny-python\n\n\ncli publish\n\n\nrsconnect-python\n\n\nVS Code\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit Backed Deployment to Posit Connect\n\n\n\nconnect\n\n\ngit\n\n\npublish\n\n\nCI/CD\n\n\nVS Code\n\n\nRStudio\n\n\nR\n\n\nPython\n\n\n\nLearn how to publish content to Posit Connect using Git Backed Deployment for both R and Python content.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJob Scheduling on Posit Connect\n\n\n\nconnect\n\n\ncode execution\n\n\nautomation\n\n\njob scheduling\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPin R Object to Posit Connect\n\n\n\nconnect\n\n\npins\n\n\nR\n\n\npublish\n\n\nRStudio\n\n\n\nThis lesson demonstrates how to pin an R dataset (mtcars) to Posit Connect.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlumbertableau\n\n\n\nconnect\n\n\nplumbertableau\n\n\nR\n\n\nRStudio\n\n\n\nLearn how to use plumbertableau to call external R code in real time from Tableau workbooks via the Tableau Analytics Extensions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject Sharing\n\n\n\nworkbench\n\n\nproject sharing\n\n\nRStudio\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "catalog-posit-team.html",
+    "href": "catalog-posit-team.html",
+    "title": "Posit Team Power-Ups",
+    "section": "",
+    "text": "Background and Workbench Jobs\n\n\n\nworkbench\n\n\ncode execution\n\n\n\nLearn how to run code as a background or workbench job in Posit Workbench.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeploying a Dash Application to Posit Connect\n\n\n\nconnect\n\n\npublishing\n\n\n\nThis lesson will show you how to deploy a Dash application to Posit Connect using the CLI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeploying a Shiny for Python Application to Posit Connect\n\n\n\nconnect\n\n\npublishing\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit Backed Deployment to Posit Connect\n\n\n\nconnect\n\n\npublishing\n\n\n\nLearn how to publish content to Posit Connect using Git Backed Deployment for both R and Python content.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJob Scheduling on Posit Connect\n\n\n\nconnect\n\n\ncode execution\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPin R Object to Posit Connect\n\n\n\nconnect\n\n\npublishing\n\n\n\nThis lesson demonstrates how to pin an R dataset (mtcars) to Posit Connect.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlumbertableau\n\n\n\nconnect\n\n\ncode execution\n\n\npublishing\n\n\n\nLearn how to use plumbertableau to call external R code in real time from Tableau workbooks via the Tableau Analytics Extensions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject Sharing\n\n\n\nworkbench\n\n\ncode execution\n\n\n\nLearn how to deploy a Shiny for Python application to Posit Connect using the rsconnect-python command line interface.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#pst-training",
+    "href": "index.html#pst-training",
+    "title": "Posit Team User Training",
+    "section": "PST Training",
+    "text": "PST Training\nThat is all :)"
+  },
+  {
+    "objectID": "index.html#pst-training2",
+    "href": "index.html#pst-training2",
+    "title": "Posit Team User Training",
+    "section": "PST Training2",
+    "text": "PST Training2\nThat is all again :)"
+  }
+]

@@ -1,0 +1,41 @@
+---
+listing:
+  - id: pst-training
+    template: catalog-listing.ejs
+    contents: catalogs.yml
+page-layout: custom
+toc: false
+---
+
+::: hero-banner
+::: content-block
+::: two-column
+::: column
+::: hero-text
+# Welcome to Posit Team User Training
+
+This training hub offers a collection of lessons tailored to help you unlock the full potential of Posit Team. Whether you’re new to Posit Team or looking to deepen your knowledge, these lessons are designed to guide you through essential features, streamline your workflows, and enhance collaboration across projects. Start exploring today to make the most of Posit Team's powerful tools and capabilities!
+
+:::
+:::
+
+::: column
+::: hero-video
+<script src="https://fast.wistia.com/embed/medias/ultwcwirl7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_ultwcwirl7 popover=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div>
+:::
+:::
+:::
+:::
+:::
+
+<br>
+
+
+::: centered-container
+::: {#pst-training}
+:::
+:::
+
+
+<br>
+<br>

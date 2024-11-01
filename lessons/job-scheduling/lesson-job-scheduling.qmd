@@ -1,0 +1,9 @@
+---
+title: "Job Scheduling on Posit Connect"
+categories: [connect, code execution]
+image: ../../images/lesson-image.png
+description: "Learn how to deploy a Shiny for Python application to Posit Connect using the `rsconnect-python` command line interface."
+---
+
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/lkag4gx5x1?seo=true&videoFoam=true" title="Job Scheduling on PCT Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>

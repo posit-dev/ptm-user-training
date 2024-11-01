@@ -1,0 +1,17 @@
+- name: Posit Team User Training
+  catalogs:
+    - title: "Posit Team Power-Ups"
+      subtitle: "Discover how to create, manage, and share content with Posit Team through concise, easy-to-follow videos."
+      href: catalog-posit-team.qmd
+      thumbnail: images/pst-card-image.png
+    - title: "Best Practices"
+      subtitle: "🚧 UNDER CONSTRUCTION 🚧<br><br>Learn how to use Posit Team to its full potential with these data science best practices."      href: #
+      thumbnail: images/best-practices-image.png
+    - title: "Learning Paths"
+      subtitle: "🚧 UNDER CONSTRUCTION 🚧<br><br>Explore our Posit Team learning paths designed to guide and enhance your learning experience."
+      href: #
+      thumbnail: images/learning-paths-image.png
+    - title: "Posit Team User Training Workshop"
+      subtitle: "🚧 UNDER CONSTRUCTION 🚧<br><br> Join us for a live, interactive workshop to learn how to use Posit Team to its full potential."
+      href: #
+      thumbnail: images/workshop-image.png
