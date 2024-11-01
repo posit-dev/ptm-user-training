@@ -58,7 +58,8 @@
       "/lessons/job-scheduling/lesson-job-scheduling.html",
       "/lessons/pin-r-object/lesson-pin-r-object.html",
       "/lessons/plumbertableau/lesson-plumbertableau.html",
-      "/lessons/project-sharing/lesson-project-sharing.html"
+      "/lessons/project-sharing/lesson-project-sharing.html",
+      "/lessons/publish-shiny-from-R/lesson-publish-shiny-from-R.html"
     ]
   }
 ]
