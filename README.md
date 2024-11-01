@@ -1,11 +1,9 @@
-# Posit Academy
+# Posit Team User Training
 
 ## Structure
 
-1.  At the top of your LMS is a `index.qmd`. This file contains links to individual catalog pages. Example catalog pages include: Open Source Education, Posit Team User Training, Posit Team Admin Training. You can either manually link to your various catalog pages, or you can add a custom listing via the `catalogs.yml` file.
-2.  Catalogs are called `catalog-{description}.qmd`. For example, the open source education training catalog could be called `catalog-open-source-ed.qmd`. You can have as many catalog pages as you'd like. The `catalog-{description}.qmd` files will reside within a `catalogs/` folder.
-3.  A `catalog-{description}.qmd` contains various courses organized into learning paths. For example, a `catalog-open-source-ed.qmd` may contain "Intro to R" and "Intro to Python" learning paths. Each learning path is defined in a `path-{description}.yml` file. All of the `path-{description}.yml` files reside within a `paths/` directory. The paths are displayed on the `catalog-{description}.qmd` page via the `listings:` YAML key.
-4.  The `path-{description}.yml` contains hrefs to various `course-{description}.qmd` files. Each course will have a dedicated sub-directory within the `courses/` directory. In addition to the `course-{description}.qmd` file, you'll also find a `curriculum-{course}.yml` file which outlines the structure of each lesson in the course.
-5.  The `lessons/` directory will contain a sub-directory for each lesson. Inside each lesson sub-directory will be a `lesson-{description}.qmd` file (and any dependent files including images, data, etc). A lesson is the basic unit of education in this LMS.
-
-## Creating a new course
+1.  The `index.qmd` file includes links to individual catalog pages, such as *Posit Team Power Ups*, *Best Practices*, *Learning Paths*, and others. The catalog listing on the `index.qmd` page is generated using the `catalogs.yml` file and the `catalog-listing.ejs` template.
+2.  Each catalog page consists of either a collection of lessons (such as *Posit Team Power Ups*) or a curated list of learning paths. A **learning path** is an organized set of lessons centered around a specific theme or topic (for example, *Getting Started with Posit Team*). All lessons can be found in subdirectories of the `lessons/` folder. Each lesson is presented as a single Quarto document, featuring an embedded video at the top, accompanied by optional text below that summarizes the lesson.
+3.  A catalog page may also link out to an external page or sign-up form (e.g., *Posit Team User Training Workshop*).
+4.  All images used in the project should be added to the `images/` directory to avoid duplication in individual lesson.
+5.  Custom CSS styling is defined in the `styles.css` file.
