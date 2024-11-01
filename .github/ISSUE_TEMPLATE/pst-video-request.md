@@ -1,7 +1,7 @@
 ---
 name: PST Video Request
 about: Suggest a video(s)
-title: pst-video-request
+title: Video Request
 labels: ''
 assignees: ryjohnson09
 
