@@ -50,6 +50,7 @@
   {
     "listing": "/catalog-posit-team.html",
     "items": [
+      "/lessons/add-connect-cli/lesson-add-connect-cli.html",
       "/lessons/background-workbench-jobs/lesson-background-workbench-jobs.html",
       "/lessons/dash-deploy/lesson-dash-deploy.html",
       "/lessons/shiny-python-publish/lesson-shiny-python-publish.html",
