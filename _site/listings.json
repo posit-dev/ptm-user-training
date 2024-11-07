@@ -60,7 +60,9 @@
       "/lessons/plumbertableau/lesson-plumbertableau.html",
       "/lessons/project-sharing/lesson-project-sharing.html",
       "/lessons/publish-shiny-from-R/lesson-publish-shiny-from-R.html",
-      "/lessons/using-multiple-python-versions/lesson-using-multiple-python-versions.html"
+      "/lessons/venv-setup/lesson-venv-setup.html",
+      "/lessons/using-multiple-python-versions/lesson-using-multiple-python-versions.html",
+      "/lessons/using-multiple-r-versions/lesson-using-multiple-r-versions.html"
     ]
   }
 ]
