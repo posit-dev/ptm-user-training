@@ -5,7 +5,7 @@ account: ryan@posit.co
 server: pub.current.posit.team
 hostUrl: https://pub.current.posit.team/__api__
 appId: 356
-bundleId: 962
+bundleId: 5529
 url: https://pub.current.posit.team/public/ptm-user-training/
 version: 1
 asMultiple: FALSE

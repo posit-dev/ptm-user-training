@@ -1,0 +1,14 @@
+name: ptm-user-training
+title: ptm-user-training
+username: ryan@posit.co
+account: ryan@posit.co
+server: pub.current.posit.team
+hostUrl: https://pub.current.posit.team/__api__
+appId: 1295
+bundleId: 5527
+url: https://pub.current.posit.team/content/828673f7-27b6-409b-a030-ba97ba33faa0/
+version: 1
+quarto_version: 1.5.57
+quarto_engines: markdown
+asMultiple: FALSE
+asStatic: FALSE
